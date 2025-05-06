@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheDudeFromCI/mineflayer-collectblock.git"
+    "url": "git+https://github.com/HIX4123/mineflayer-collectblock-movement.git"
   },
   "keywords": [
     "mineflayer",
@@ -25,9 +25,9 @@
   "author": "TheDudeFromCI",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheDudeFromCI/mineflayer-collectblock/issues"
+    "url": "https://github.com/HIX4123/mineflayer-collectblock-movement/issues"
   },
-  "homepage": "https://github.com/TheDudeFromCI/mineflayer-collectblock#readme",
+  "homepage": "https://github.com/HIX4123/mineflayer-collectblock-movement#readme",
   "dependencies": {
     "mineflayer": "^4.0.0",
     "mineflayer-pathfinder": "^2.1.1",
